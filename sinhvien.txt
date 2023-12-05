@@ -1,0 +1,15 @@
+Ma SV: 1
+Ten SV: asdsad
+Que quan: dsafs
+Ghi chu: asfs
+
+Ma SV: 2
+Ten SV: afsdf
+Que quan: dds
+Ghi chu: sad
+
+Ma SV: 3
+Ten SV: sdfsd
+Que quan: asds
+Ghi chu: asas
+
